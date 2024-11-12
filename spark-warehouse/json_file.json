@@ -1,0 +1,16 @@
+[
+    {
+        "timestamp": "2024-11-10T12:00:00Z",
+        "eventName": "User Login",
+        "requestData": {
+            
+        },
+        "userId": "user123",
+        "eventId": "event456",
+        "documentId": "doc789",
+        "source": {
+            
+        },
+        "labels": []
+    }
+]
